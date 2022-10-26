@@ -1,4 +1,4 @@
-package jp.co.internous.ecsite.model.form;
+package jp.co.internous.ecsite.model.entity;
 
 import java.io.Serializable;
 
